@@ -37,20 +37,20 @@
 
  
 # System Overview
-
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio_dark.png">
 		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
+		<img alt="System Overview" src="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
 	</picture>
 </p>
 
 # Summarized FlowCharts
-
 <p align="center">
 	<picture>
 		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio_dark.png">
 		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
+		<img alt="FlowCharts" src="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
 	</picture>
 </p>
 
