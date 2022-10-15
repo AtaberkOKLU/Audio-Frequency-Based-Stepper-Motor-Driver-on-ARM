@@ -38,18 +38,21 @@
  
 # System Overview
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio_dark.png">
-	<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
-</picture>
-
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
+	</picture>
+</p>
 
 # Summarized FlowCharts
 
-<picture>
-	<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio_dark.png">
-	<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
-</picture>
+<p align="center">
+	<picture>
+		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
+	</picture>
+</p>
 
 # Project Requirement
 See [Project Definition PDF](http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/EE447_Project.pdf)
