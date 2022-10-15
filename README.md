@@ -39,25 +39,25 @@
 # System Overview
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio_dark.png">
-		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
-		<img alt="System Overview" src="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
+		<source media="(prefers-color-scheme: dark)" srcset="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
+		<img alt="System Overview" src="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/System.drawio.png">
 	</picture>
 </p>
 
 # Summarized FlowCharts
 <p align="center">
 	<picture>
-		<source media="(prefers-color-scheme: dark)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio_dark.png">
-		<source media="(prefers-color-scheme: light)" srcset="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
-		<img alt="FlowCharts" src="http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
+		<source media="(prefers-color-scheme: dark)" srcset="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio_dark.png">
+		<source media="(prefers-color-scheme: light)" srcset="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
+		<img alt="FlowCharts" src="https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/FlowChart.drawio.png">
 	</picture>
 </p>
 
 # Project Requirement
-See [Project Definition PDF](http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/EE447_Project.pdf)
+See [Project Definition PDF](https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/EE447_Project.pdf)
 
 # Project Report
-See [Project Report PDF](http://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/TermProjectReport.pdf)
+See [Project Report PDF](https://AtaberkOKLU.github.io/Audio-Frequency-Based-Stepper-Motor-Driver-on-ARM/Docs/TermProjectReport.pdf)
 
 
