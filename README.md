@@ -2,7 +2,7 @@
 - 1 Khz Microphone Capture and Digital Signal Processing
 - Control LED Color According to Sound Frequency
 - Frequency Thresholds can be set by Serial UI and KeyPad
-- Stepper Motor Speed according to Magnetude of the Sound
+- Stepper Motor Speed according to Magnitude of the Sound
 - Stepper Motor Direction is according to on-board switch
 
 # Project Features
